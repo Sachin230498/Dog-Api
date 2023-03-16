@@ -21,16 +21,6 @@
     "booked": true
   },
   {
-    "category": "Family",
-    "image_url": "https://avatars.githubusercontent.com/u/107469218?v=4",
-    "type_of_room": "AC",
-    "bed_type": "Single",
-    "no_of_persons": "23",
-    "capacity": "23",
-    "cost": "23",
-    "id": 23
-  },
-  {
     "category": "Suite",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2CdIOdIsAwWZFeqgmY5J5Gbfb7YmPHFkK7w&usqp=CAU",
     "type_of_room": "AC",
